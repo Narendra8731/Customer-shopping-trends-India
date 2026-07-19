@@ -115,7 +115,7 @@ The project demonstrates skills in data cleaning, SQL analysis, data visualizati
 Example:
 
 ```
-images/dashboard.png
+https://github.com/Narendra8731/Customer-shopping-trends-India/blob/main/Custmer_shopping_trends_dashboard.png
 ```
 
 or simply drag your screenshot into GitHub README.
