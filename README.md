@@ -131,7 +131,7 @@ Aspiring Data Analyst
 ### Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/narendra-koppala/
-- GitHub: https://github.com/your-github
+- GitHub: https://github.com/Narendra8731
 
 ---
 
