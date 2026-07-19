@@ -32,7 +32,12 @@ The project demonstrates skills in data cleaning, SQL analysis, data visualizati
 ## 📂 Project Workflow
 
 ### 1️⃣ Data Collection
-- Imported customer shopping dataset.
+## 📂 Dataset
+
+- **Source:** Kaggle
+- **Dataset:** Customer Shopping Trends Dataset
+- **Link:** https://www.kaggle.com/datasets/rewantbhriguvanshi/customer-shopping-trends-indian/data
+- imported data into Jupyter Notebook
 
 ### 2️⃣ Data Cleaning (Python)
 - Handled missing values
@@ -118,9 +123,6 @@ Example:
 https://github.com/Narendra8731/Customer-shopping-trends-India/blob/main/Custmer_shopping_trends_dashboard.png
 ```
 
-or simply drag your screenshot into GitHub README.
-
----
 
 ## 🎓 Author
 
